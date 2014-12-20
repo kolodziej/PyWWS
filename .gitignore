@@ -3,3 +3,4 @@ __pycache__
 *.swo
 migrations
 pywws/settings.py
+db.sqlite3
